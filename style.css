@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    padding: 0px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(4, 35, 50);
+}
+
+.hedaer{
+    width: 100%;
+    padding:25px 0px;
+}
+.mid{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    padding: 20px 0px;
+    border-bottom: 1px solid #fff;
+}
+.left{
+    width: 50%;
+}
+.left p{
+font-size: 25px;
+color: #fff;
+}
+.right{
+    width: 50%;
+text-align: right;
+
+}
+.right ul{
+    
+}
+
+.right ul li{
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+ padding: 7px;
+ transition: 1s;
+ border-radius: 10px;
+ 
+}
+
+
+.right ul li a{
+    text-decoration: none;
+    font-size: 18px;
+    color:#fff; 
+    font-style: oblique;
+
+}
+.right ul li:hover{
+    background-color: rgb(0, 26, 255);
+    color: black;
+}
+.me{
+    margin-top: 100px;
+
+}
+.box{
+    width: 335px;
+    height:335px;
+    background-color: #fff;
+    border-radius: 50%;
+    margin: auto;
+}
+.text{
+    width: 100%;
+    
+}
+.mintex{
+    width: 90%;
+    margin: 0 auto;
+
+    text-align: center;
+}
+.min{
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 50px 0px;
+}
+.min h2{
+    margin: 10px 0px;
+    font-style:oblique;
+    color: rgb(0, 104, 239);
+    font-size: 25px;
+}
+.min p{
+    font-size: 17px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  color: #fff;
+}
+.box img{
+    width: 335px;
+    height: 335px;
+    border-radius:50% ;
+}
